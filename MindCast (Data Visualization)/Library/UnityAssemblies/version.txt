@@ -1,0 +1,2 @@
+5.4.0f3-HTP:2.8.2.0
+WSAPlayer
